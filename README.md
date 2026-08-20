@@ -1,11 +1,11 @@
-<h1 align="center">Hello 👋,I'm Harry</h1>
+<h1 align="center">Hello, I'm Harry</h1>
 <h3 align="center">Creative Developer & Audio Technologist</h3>
 
-- 🔭 I’m currently working on [PADA](https://github.com/Babalon921/PADA)
+-  I’m currently working on [PADA](https://github.com/Babalon921/PADA)
 
-- 👨‍💻 All of my projects are available at [hazaudiovisualtech.com](hazaudiovisualtech.com)
+- All of my projects are available at [hazaudiovisualtech.com](hazaudiovisualtech.com)
 
-- 📫 How to reach me **adamin@hazaudiovisualtech.com**
+-  How to reach me **adamin@hazaudiovisualtech.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
