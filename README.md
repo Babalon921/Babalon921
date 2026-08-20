@@ -1,4 +1,3 @@
-<h1 align="center">Hello, I'm Harry</h1>
 <h3 align="center">Creative Developer & Audio Technologist</h3>
 
 -  I’m currently working on [PADA](https://github.com/Babalon921/PADA)
